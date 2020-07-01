@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.0c6a5705.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.5e50b8b5.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.5e50b8b5.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.b22484bb.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.3be8e9b3.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.3be8e9b3.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.3a51866e.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.3a51866e.js.map",
-    "static/js/2.58575cad.chunk.js": "/my-portfolio/static/js/2.58575cad.chunk.js",
-    "static/js/2.58575cad.chunk.js.map": "/my-portfolio/static/js/2.58575cad.chunk.js.map",
+    "static/js/2.498d4d3b.chunk.js": "/my-portfolio/static/js/2.498d4d3b.chunk.js",
+    "static/js/2.498d4d3b.chunk.js.map": "/my-portfolio/static/js/2.498d4d3b.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "precache-manifest.c7b678422f9c29e81186e9b25e21fffa.js": "/my-portfolio/precache-manifest.c7b678422f9c29e81186e9b25e21fffa.js",
+    "precache-manifest.00351ce7917c3d644602df3d16b3bc0b.js": "/my-portfolio/precache-manifest.00351ce7917c3d644602df3d16b3bc0b.js",
     "service-worker.js": "/my-portfolio/service-worker.js",
-    "static/css/main.0c6a5705.chunk.css.map": "/my-portfolio/static/css/main.0c6a5705.chunk.css.map",
-    "static/js/2.58575cad.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.58575cad.chunk.js.LICENSE.txt",
-    "static/media/BabaylanMarkDaniel.pdf": "/my-portfolio/static/media/BabaylanMarkDaniel.ac668999.pdf",
-    "static/media/BabaylanMarkDaniel.docx": "/my-portfolio/static/media/BabaylanMarkDaniel.fc721a63.docx",
-    "static/media/phone.png": "/my-portfolio/static/media/phone.01487848.png"
+    "static/css/main.b22484bb.chunk.css.map": "/my-portfolio/static/css/main.b22484bb.chunk.css.map",
+    "static/js/2.498d4d3b.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.498d4d3b.chunk.js.LICENSE.txt",
+    "static/media/white-github1.png": "/my-portfolio/static/media/white-github1.8224ce75.png",
+    "static/media/white-gmail.png": "/my-portfolio/static/media/white-gmail.96f47656.png",
+    "static/media/white-linkedin1.png": "/my-portfolio/static/media/white-linkedin1.68b7646a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3a51866e.js",
-    "static/js/2.58575cad.chunk.js",
-    "static/css/main.0c6a5705.chunk.css",
-    "static/js/main.5e50b8b5.chunk.js"
+    "static/js/2.498d4d3b.chunk.js",
+    "static/css/main.b22484bb.chunk.css",
+    "static/js/main.3be8e9b3.chunk.js"
   ]
 }
